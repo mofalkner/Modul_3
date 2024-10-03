@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class Filme
+public class Filme extends Medienbibliothek
 {
     private String Titel;
     private String Regisseur;

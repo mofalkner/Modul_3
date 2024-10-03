@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class eBooks
+public class eBooks extends Medienbibliothek
 {
     private String Titel;
     private String Autor;
@@ -10,6 +10,5 @@ public class eBooks
     private String Kommentar;
     private Date Erscheinungsdatum;
     private String Genre;
-
 
 }
